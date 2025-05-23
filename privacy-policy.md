@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: April 5, 2025
+Last updated: May 30, 2025
 
 Quran Kareem App is a simple Quran application that uses an open-source API to display Quranic content.
 
