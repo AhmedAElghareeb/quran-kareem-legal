@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-Last updated: April 5, 2025
+Last updated: May 30, 2025
 
 By using the Quran Kareem App, you agree to the following terms:
 
